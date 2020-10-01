@@ -1,0 +1,48 @@
+body{
+    background-image: url(../fondos/tec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color :white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.Home
+{
+position: absolute;
+top:50%;
+left: 50%;
+margin-left: -185px;
+margin-top: -60px;
+
+}
+.Home>h1
+{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+a
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -145px;
+    
+    margin-inline-end: 20px;
+    
+
+   color: teal;
+    text-decoration: none;
+    border: 1px solid gray;
+    text-align: left;
+    padding: 8px 15px;
+    background-color: white;
+    border-radius: 3px;
+    
+    
+}
